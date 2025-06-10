@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "phenesse"]
 	path = phenesse
-	url = https://github.com/cran/phenesse
+	url = https://github.com/mbelitz/phenesse
